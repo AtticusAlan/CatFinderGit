@@ -4,7 +4,7 @@ import smtplib
 import json
 
 '''
-check if a new cat is listed in the Animal Rescue League of Boston
+Check if a new cat is listed in the Animal Rescue League of Boston
 '''
 cat_dic = {} # cats' ids as keys, age info as values
 new_kitten_info = [] # list of new cat info
