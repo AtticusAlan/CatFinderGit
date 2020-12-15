@@ -20,4 +20,4 @@ If you want to use this project to get the latest info of any new pets posted on
 ## Check out the website of [Animal Rescue League of Boston](https://www.arlboston.org/)<br><br>
 
 ## Meet Cumin!
-![](./Kitten1.jpg)
+![](./Kitten1.png)
