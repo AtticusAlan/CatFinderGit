@@ -1,7 +1,7 @@
 # Cat Finder <br>
 
 ## What is this project about
-This project is deemed to get the get the latest info of new cats posted on Animal Rescue League and notify the user by sending out correspondent messages.<br><br>
+This project is intended to get the latest info of new cats posted on Animal Rescue League and notify the user by sending out correspondent messages.<br><br>
 
 ## Why this project
 Been always wanted to adopt a cat, and by the time I finally made the decision and finished cat proofing my apartment, I chose the Animal Rescue League of Boston. However, because of the pendemic, people seem to be more enthusastic about adopting pets, especially cats, during the time of qurantine. Whenver I see a new post of a new kitten on the shelter's website, there is always someone in front of me to submit the application. Who can say no those adorable fluffy balls? <br>
